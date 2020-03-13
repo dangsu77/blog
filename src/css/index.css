@@ -1,0 +1,25 @@
+.controller {
+    margin: 1rem;
+}
+.controller button.start {
+    width: 200px;
+    height: 50px;
+    font-size: 1.1rem;
+}
+.blogList {
+    overflow: hidden;
+}
+.blogList li {
+    display: block;
+    list-style: none;
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    width: 120px;
+    height: 120px;
+    border: 1px solid grey;
+    float: left;
+    margin: 1em;
+    word-wrap: break-word;
+    position: relative;
+}
+
